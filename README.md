@@ -1,1 +1,1 @@
-# DemoGenericRepositoryPattern
+# Generic Repository Pattern .NET 9
