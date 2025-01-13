@@ -16,7 +16,9 @@ namespace DemoGenericRepositoryPattern.Controllers
         {
             _categoryRepository = categoryRepository;
         }
+
         // Get all
+        // need to be added with paging (skip, take)
         [HttpGet]
         public async Task<IActionResult> GetAll(CancellationToken cancellationToken)
         {

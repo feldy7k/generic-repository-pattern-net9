@@ -16,7 +16,8 @@ namespace DemoGenericRepositoryPattern.Controllers
             _brandRepository = brandRepository;
         }
 
-        // Get all endpoint
+        // Get all
+        // need to be added with paging (skip, take)
         [HttpGet]
         public async Task<IActionResult> GetAll(CancellationToken cancellationToken)
         {

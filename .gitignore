@@ -22,3 +22,6 @@ Version.h
 Version.cpp
 /DemoGenericRepositoryPattern/bin
 /DemoGenericRepositoryPattern/obj
+.suo
+.vs/
+.vs
