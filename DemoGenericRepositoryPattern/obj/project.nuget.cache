@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BzDp2quyOBA=",
+  "dgSpecHash": "7eDGwKOBKjo=",
   "success": true,
-  "projectFilePath": "C:\\Data Feldy\\Github\\DemoGenericRepositoryPattern\\DemoGenericRepositoryPattern\\DemoGenericRepositoryPattern.csproj",
+  "projectFilePath": "C:\\Data Feldy\\Github\\generic-repository-pattern-net9\\DemoGenericRepositoryPattern\\DemoGenericRepositoryPattern.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\feldy\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\feldy\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

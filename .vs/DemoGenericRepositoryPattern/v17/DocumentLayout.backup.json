@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Data Feldy\\Github\\generic-repository-pattern-net9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D0E53C7-1707-4F72-8328-F2E77CCF4FE6}|DemoGenericRepositoryPattern\\DemoGenericRepositoryPattern.csproj|c:\\data feldy\\github\\generic-repository-pattern-net9\\demogenericrepositorypattern\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D0E53C7-1707-4F72-8328-F2E77CCF4FE6}|DemoGenericRepositoryPattern\\DemoGenericRepositoryPattern.csproj|solutionrelative:demogenericrepositorypattern\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D0E53C7-1707-4F72-8328-F2E77CCF4FE6}|DemoGenericRepositoryPattern\\DemoGenericRepositoryPattern.csproj|c:\\data feldy\\github\\generic-repository-pattern-net9\\demogenericrepositorypattern\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D0E53C7-1707-4F72-8328-F2E77CCF4FE6}|DemoGenericRepositoryPattern\\DemoGenericRepositoryPattern.csproj|solutionrelative:demogenericrepositorypattern\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D0E53C7-1707-4F72-8328-F2E77CCF4FE6}|DemoGenericRepositoryPattern\\DemoGenericRepositoryPattern.csproj|c:\\data feldy\\github\\generic-repository-pattern-net9\\demogenericrepositorypattern\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D0E53C7-1707-4F72-8328-F2E77CCF4FE6}|DemoGenericRepositoryPattern\\DemoGenericRepositoryPattern.csproj|solutionrelative:demogenericrepositorypattern\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D0E53C7-1707-4F72-8328-F2E77CCF4FE6}|DemoGenericRepositoryPattern\\DemoGenericRepositoryPattern.csproj|c:\\data feldy\\github\\generic-repository-pattern-net9\\demogenericrepositorypattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D0E53C7-1707-4F72-8328-F2E77CCF4FE6}|DemoGenericRepositoryPattern\\DemoGenericRepositoryPattern.csproj|solutionrelative:demogenericrepositorypattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D0E53C7-1707-4F72-8328-F2E77CCF4FE6}|DemoGenericRepositoryPattern\\DemoGenericRepositoryPattern.csproj|c:\\data feldy\\github\\generic-repository-pattern-net9\\demogenericrepositorypattern\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6D0E53C7-1707-4F72-8328-F2E77CCF4FE6}|DemoGenericRepositoryPattern\\DemoGenericRepositoryPattern.csproj|solutionrelative:demogenericrepositorypattern\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D0E53C7-1707-4F72-8328-F2E77CCF4FE6}|DemoGenericRepositoryPattern\\DemoGenericRepositoryPattern.csproj|c:\\data feldy\\github\\generic-repository-pattern-net9\\demogenericrepositorypattern\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6D0E53C7-1707-4F72-8328-F2E77CCF4FE6}|DemoGenericRepositoryPattern\\DemoGenericRepositoryPattern.csproj|solutionrelative:demogenericrepositorypattern\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Data Feldy\\Github\\generic-repository-pattern-net9\\DemoGenericRepositoryPattern\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "DemoGenericRepositoryPattern\\Models\\Product.cs",
+              "ToolTip": "C:\\Data Feldy\\Github\\generic-repository-pattern-net9\\DemoGenericRepositoryPattern\\Models\\Product.cs",
+              "RelativeToolTip": "DemoGenericRepositoryPattern\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T15:48:28.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Data Feldy\\Github\\generic-repository-pattern-net9\\DemoGenericRepositoryPattern\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "DemoGenericRepositoryPattern\\Models\\Category.cs",
+              "ToolTip": "C:\\Data Feldy\\Github\\generic-repository-pattern-net9\\DemoGenericRepositoryPattern\\Models\\Category.cs",
+              "RelativeToolTip": "DemoGenericRepositoryPattern\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T15:48:27.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "C:\\Data Feldy\\Github\\generic-repository-pattern-net9\\DemoGenericRepositoryPattern\\Models\\Brand.cs",
+              "RelativeDocumentMoniker": "DemoGenericRepositoryPattern\\Models\\Brand.cs",
+              "ToolTip": "C:\\Data Feldy\\Github\\generic-repository-pattern-net9\\DemoGenericRepositoryPattern\\Models\\Brand.cs",
+              "RelativeToolTip": "DemoGenericRepositoryPattern\\Models\\Brand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T15:48:25.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Data Feldy\\Github\\generic-repository-pattern-net9\\DemoGenericRepositoryPattern\\Program.cs",
+              "RelativeDocumentMoniker": "DemoGenericRepositoryPattern\\Program.cs",
+              "ToolTip": "C:\\Data Feldy\\Github\\generic-repository-pattern-net9\\DemoGenericRepositoryPattern\\Program.cs",
+              "RelativeToolTip": "DemoGenericRepositoryPattern\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T15:48:12.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Data Feldy\\Github\\generic-repository-pattern-net9\\DemoGenericRepositoryPattern\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "DemoGenericRepositoryPattern\\appsettings.Development.json",
+              "ToolTip": "C:\\Data Feldy\\Github\\generic-repository-pattern-net9\\DemoGenericRepositoryPattern\\appsettings.Development.json",
+              "RelativeToolTip": "DemoGenericRepositoryPattern\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-13T15:47:22.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Data Feldy\\Github\\generic-repository-pattern-net9\\DemoGenericRepositoryPattern\\appsettings.json",
+              "RelativeDocumentMoniker": "DemoGenericRepositoryPattern\\appsettings.json",
+              "ToolTip": "C:\\Data Feldy\\Github\\generic-repository-pattern-net9\\DemoGenericRepositoryPattern\\appsettings.json",
+              "RelativeToolTip": "DemoGenericRepositoryPattern\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-13T15:47:17.21Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

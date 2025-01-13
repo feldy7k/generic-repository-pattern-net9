@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Data Feldy\\Github\\DemoGenericRepositoryPattern\\DemoGenericRepositoryPattern\\DemoGenericRepositoryPattern.csproj": {}
+    "C:\\Data Feldy\\Github\\generic-repository-pattern-net9\\DemoGenericRepositoryPattern\\DemoGenericRepositoryPattern.csproj": {}
   },
   "projects": {
-    "C:\\Data Feldy\\Github\\DemoGenericRepositoryPattern\\DemoGenericRepositoryPattern\\DemoGenericRepositoryPattern.csproj": {
+    "C:\\Data Feldy\\Github\\generic-repository-pattern-net9\\DemoGenericRepositoryPattern\\DemoGenericRepositoryPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Data Feldy\\Github\\DemoGenericRepositoryPattern\\DemoGenericRepositoryPattern\\DemoGenericRepositoryPattern.csproj",
+        "projectUniqueName": "C:\\Data Feldy\\Github\\generic-repository-pattern-net9\\DemoGenericRepositoryPattern\\DemoGenericRepositoryPattern.csproj",
         "projectName": "DemoGenericRepositoryPattern",
-        "projectPath": "C:\\Data Feldy\\Github\\DemoGenericRepositoryPattern\\DemoGenericRepositoryPattern\\DemoGenericRepositoryPattern.csproj",
+        "projectPath": "C:\\Data Feldy\\Github\\generic-repository-pattern-net9\\DemoGenericRepositoryPattern\\DemoGenericRepositoryPattern.csproj",
         "packagesPath": "C:\\Users\\feldy\\.nuget\\packages\\",
-        "outputPath": "C:\\Data Feldy\\Github\\DemoGenericRepositoryPattern\\DemoGenericRepositoryPattern\\obj\\",
+        "outputPath": "C:\\Data Feldy\\Github\\generic-repository-pattern-net9\\DemoGenericRepositoryPattern\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
