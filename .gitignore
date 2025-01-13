@@ -16,5 +16,6 @@ bin
 obj
 packages
 .vs/
+.vs
 /.vs
 _ReSharper.*

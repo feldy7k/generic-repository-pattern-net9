@@ -5,7 +5,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace DemoGenericRepositoryPattern.Repositories
 {
-    // BrandRepository.cs
+    // BrandRepository
     public class BrandRepository(AppDbContext _context) :Repository<Brand>(_context), IBrandRepository
     {
         public async Task<IEnumerable<Brand>> GetListAsync(CancellationToken cancellationToken)

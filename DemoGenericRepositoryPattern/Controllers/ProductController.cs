@@ -17,12 +17,11 @@ namespace DemoGenericRepositoryPattern.Controllers
             _productRepository = productRepository;
         }
 
-        // Get all
-        // need to be added with paging (skip, take)
+        // Get all with paging
         [HttpGet]
-        public async Task<IActionResult> GetAll(CancellationToken cancellationToken)
+        public async Task<IActionResult> GetAll(int pageNumber, int pageSize, CancellationToken cancellationToken)
         {
-            var products = await _productRepository.GetListAsync(cancellationToken);
+            var products = await _productRepository.GetListAsync(pageNumber, pageSize, cancellationToken);
             return Ok(products);
         }
 

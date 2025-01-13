@@ -5,7 +5,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace DemoGenericRepositoryPattern.Repositories
 {
-    // CategoryRepository.cs
+    // CategoryRepository
     public class CategoryRepository(AppDbContext _context) : Repository<Category>(_context), ICategoryRepository
     {
         public async Task<IEnumerable<Category>> GetListAsync(CancellationToken cancellationToken)
